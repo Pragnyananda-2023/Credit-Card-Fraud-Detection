@@ -6,9 +6,6 @@ __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
 
-# Local datasets (may be large or contain sensitive information)
-Datasets/*.csv
-
 # Local secrets and OS/editor files
 .env
 .env.*
