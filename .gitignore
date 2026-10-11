@@ -1,0 +1,18 @@
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local datasets (may be large or contain sensitive information)
+Datasets/*.csv
+
+# Local secrets and OS/editor files
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+.vscode/
